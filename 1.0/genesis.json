@@ -111,7 +111,7 @@
                   "description": {
                     "moniker": "zeus",
                     "identity": "",
-                    "website": "",
+                    "website": "https://zeus.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -126,7 +126,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqk0xnpv69grhqe42gs398lskq4l4s22f52xz6phf84k4e2a5vxj9spds94f",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -157,7 +157,7 @@
                   "description": {
                     "moniker": "melpomene",
                     "identity": "",
-                    "website": "",
+                    "website": "https://melpomene.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -172,7 +172,7 @@
                   "pubkey": "decentrvalconspub1zcjduepq42t9txxn6q8f59fmzfm4emynrjls6x96caz7hdnkksrcfst0jn5qt8sg9u",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -203,7 +203,7 @@
                   "description": {
                     "moniker": "terpsichore",
                     "identity": "",
-                    "website": "",
+                    "website": "https://terpsichore.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -218,7 +218,7 @@
                   "pubkey": "decentrvalconspub1zcjduepq8jqj6w8lkeezx8rq6cyxp5as9m0rvp9a7armnh5wtdny94qyhjsqzw3ywq",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -249,7 +249,7 @@
                   "description": {
                     "moniker": "euterpe",
                     "identity": "",
-                    "website": "",
+                    "website": "https://euterpe.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -264,7 +264,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqh8tznjktmmxzsvhkuctyxqjjen9cw5j2x0vsz7nlrkev3jpz2dlqj8s2s5",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -295,7 +295,7 @@
                   "description": {
                     "moniker": "calliope",
                     "identity": "",
-                    "website": "",
+                    "website": "https://calliope.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -310,7 +310,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqjqxrjaedfcskk2gufc7jumngw45m5ddqz9zy2rkyky2t0deqmmvqmk69ph",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -341,7 +341,7 @@
                   "description": {
                     "moniker": "hera",
                     "identity": "",
-                    "website": "",
+                    "website": "https://hera.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -356,7 +356,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqj5vr9qdfp0u9zpdyx33dndz0zm28l3hxxhsv95rzaa30ccr5gf4s9p6dtn",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -387,7 +387,7 @@
                   "description": {
                     "moniker": "hermes",
                     "identity": "",
-                    "website": "",
+                    "website": "https://hermes.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -402,7 +402,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqg0swglntapw0n7usgrxcrw6ylml29m4k69qhjun5ul3gy5y45tysu7mfjp",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -433,7 +433,7 @@
                   "description": {
                     "moniker": "thalia",
                     "identity": "",
-                    "website": "",
+                    "website": "https://thalia.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -448,7 +448,7 @@
                   "pubkey": "decentrvalconspub1zcjduepqwjah4xunw5xy4e4vv2f5d9975d9j8srcelan7dw5hstsr555wp7qtqccw0",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -479,7 +479,7 @@
                   "description": {
                     "moniker": "poseidon",
                     "identity": "",
-                    "website": "",
+                    "website": "https://poseidon.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -494,7 +494,7 @@
                   "pubkey": "decentrvalconspub1zcjduepq2j872d6yzyxsc0fcy5ea476mdsswas3p0jhjaypj5g2hnhg8rdrsrcry4u",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -525,7 +525,7 @@
                   "description": {
                     "moniker": "ares",
                     "identity": "",
-                    "website": "",
+                    "website": "https://ares.mainnet.decentr.xyz",
                     "security_contact": "",
                     "details": ""
                   },
@@ -540,7 +540,7 @@
                   "pubkey": "decentrvalconspub1zcjduepq2a0vt0lvh4s9u3q2yhf64pare3e2axefqt89vp8f4efll3f0ghssahrc9w",
                   "value": {
                     "denom": "udec",
-                    "amount": "500000000000"
+                    "amount": "10000000000"
                   }
                 }
               }
@@ -565,7 +565,7 @@
     },
     "mint": {
       "minter": {
-        "inflation": "0.050000000000000000",
+        "inflation": "0.200000000000000000",
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
@@ -627,7 +627,7 @@
     },
     "token": {
       "params": {
-        "rewards_block_interval": "100"
+        "rewards_block_interval": "483840"
       },
       "balances": {},
       "deltas": {},
@@ -649,7 +649,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -664,7 +664,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -679,7 +679,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -694,7 +694,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -709,7 +709,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -724,7 +724,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -739,7 +739,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -754,7 +754,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -769,7 +769,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
@@ -784,7 +784,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "1000000000000"
+                "amount": "15000000000"
               }
             ],
             "public_key": null,
