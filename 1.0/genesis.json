@@ -664,7 +664,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "15000000000"
+                "amount": "18000000000"
               }
             ],
             "public_key": null,
@@ -694,7 +694,7 @@
             "coins": [
               {
                 "denom": "udec",
-                "amount": "15000000000"
+                "amount": "12000000000"
               }
             ],
             "public_key": null,
